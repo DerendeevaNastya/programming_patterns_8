@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\deren\\Documents\\шаблоны\\8\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\deren\\Documents\\шаблоны\\8\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\deren\\Documents\\шаблоны\\8\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "C:\\Users\\deren\\Documents\\шаблоны\\8\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "packagesPath": "C:\\Users\\deren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\deren\\Documents\\шаблоны\\8\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\deren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
